@@ -1,5 +1,10 @@
+Excellent catch! Adding a **Table of Contents (ToC)** is a smart move — especially for long, detailed READMEs like yours. It improves readability, navigation, and gives a **professional polish**.
+
+Here’s the updated **final README** with a clean, clickable markdown **Table of Contents** right after the intro.
 
 ---
+
+### ✅ Final Structure with ToC (Updated)
 
 ````markdown
 # 🚀 InstaTube-Automator  
@@ -7,7 +12,19 @@
 
 > _This project is my proof of belief. Built out of passion, not pressure. Automation is not just what I do — it’s how I think._
 
----
+## 📚 Table of Contents
+
+- [🧠 Why](#-why)
+- [⚙️ How It Works](#️-how-it-works)
+- [🛠️ What's Inside](#-whats-inside)
+- [✨ Features](#-features)
+- [📦 Tech Stack](#-tech-stack)
+- [👨‍💻 Author's Note](#-authors-note)
+- [📛 Legal & Disclaimer](#-legal--disclaimer)
+- [📺 Demo Channel](#-demo-channel)
+- [📩 Contact](#-contact)
+- [📄 License](#-license)
+
 
 ## 🧠 Why
 
@@ -156,19 +173,33 @@ This project represents:
 > I code to express myself.
 > I code to build things that **think**.
 
+
+
+## 📛 Legal & Disclaimer
+
+> ⚠️ This project is intended strictly for **educational, personal, and non-commercial** use.
+
+**By using this code, you agree to the following:**
+
+- 📌 This tool interacts with **Instagram and YouTube**, which have strict **Terms of Service** regarding automation, scraping, and bot usage.
+- ❌ **Unauthorized automation may violate** their terms and can lead to **temporary/permanent bans** of user accounts or channels.
+- ⚠️ **The author does NOT take responsibility** for:
+  - Account suspension or termination
+  - Data loss
+  - API or browser changes that break functionality
+  - Any **financial, reputational, or legal loss** caused by using or modifying this tool
+
+🧪 This project was created solely to:
+- Demonstrate technical ability in automation and systems design
+- Practice ethical software engineering
+- Learn from real-world browser interaction challenges
+
+> 📚 Use this code **only at your own risk**, for learning and sandbox testing.  
+> 🚫 Do **not** use it for spamming, scraping unauthorized content, or violating any platform’s policy.
+
 ---
 
-## 🔒 Disclaimer
 
-> ⚠️ This project was created **strictly for personal learning, testing, and skill demonstration**.
-
-* ❌ Not created to make money or run a content farm
-* 📹 Videos were used **only for testing and demo**, not reused, republished, or monetized
-* ✅ Uploads were done ethically with fair-use in mind
-* ⚠️ No copyrighted material
-* 🛠️ Built for fun, growth, and engineering mastery
-
----
 
 ## 📺 Demo Channel
 
@@ -195,3 +226,21 @@ If you're a developer, recruiter, or creator who shares this mindset — I’d l
 Licensed under the [MIT License](LICENSE).
 
 ````
+
+---
+
+### ✅ Final Actions
+You can now:
+```bash
+git add README.md
+git commit -m "Add README with table of contents and improved formatting"
+git push
+````
+
+Would you like:
+
+* A **GitHub profile README** that matches your personal branding?
+* A **LinkedIn post version** of this for max impact?
+* Or a **project badge setup** (Python, License, GitHub stars)?
+
+Let’s keep building your developer brand like a pro.
