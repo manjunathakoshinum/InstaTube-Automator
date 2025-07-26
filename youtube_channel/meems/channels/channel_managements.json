@@ -1,0 +1,13 @@
+{
+    "number_of_videos_available_to_upload": 5,
+    "number_of_channels": 1,
+    "channels": {
+        "YOUR_CHANNEL_NAME": {
+            "number_of_videos_pending_to_upload": 10,
+            "last_uploaded_date": "2024-08-07",
+            "last_uploaded_time": "16:47:59",
+            "number_of_videos_uploaded_today": 0,
+            "youtube_daily_limit": 10
+        }
+    }
+}

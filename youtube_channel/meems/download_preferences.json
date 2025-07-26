@@ -1,0 +1,10 @@
+{
+    "usernames_file": "youtube_channel\\meems\\meems_usernames.json",
+    "last_username_file": "youtube_channel\\meems\\last_username_file.jsonn",
+    "downloaded_links_file": "youtube_channel\\meems\\downloaded_links.json",
+    "firefox_profile_path": "path\\to\\firefox\\profile",
+    "geckodriver_path": "download_upload\\geckodriver.exe",
+    "min_views": 100000, 
+    "recent_hours": 24 
+  }
+  

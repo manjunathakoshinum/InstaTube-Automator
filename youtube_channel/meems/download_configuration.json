@@ -1,0 +1,15 @@
+{
+    "firefox_profile_path": "path/to/firefox/profile",
+    "geckodriver_path": "path/to/geckodriver.exe",
+    "usernames_file": "youtube_channel/meems/meems_usernames.json",
+    "downloaded_links_file": "youtube_channel/meems/downloaded_links.json",
+    "last_username_file": "youtube_channel/meems/last_username_file.json",
+    "instaloader_username": "your_instagram_username_here",
+    "instaloader_password": "your_instagram_password_here",
+    "session_file": "instagram_download/instaloader_session.session",
+    "src_directory": "path/to/your/project/instagram_to_youtube",
+    "dest_directory": "youtube_channel/meems/download_videos",
+    "json_file": "youtube_channel/meems/video_files_path.json",
+    "min_views": 100000,
+    "recent_hours": 24
+}

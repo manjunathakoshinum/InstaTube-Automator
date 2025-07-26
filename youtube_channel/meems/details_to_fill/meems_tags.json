@@ -1,0 +1,285 @@
+{
+    "A": [
+        "Action",
+        "Animated",
+        "Adventure Films",
+        "Anime",
+        "Alien",
+        "Award-Winning",
+        "Animation Classics",
+        "Award-Winning Films",
+        "Action Comedies",
+        "Animated Adventures",
+        "Alien Invasion",
+        "Anthology Films"
+    ],
+    "C": [
+        "Comedy",
+        "Classic",
+        "Crime",
+        "Cult",
+        "Courtroom Dramas",
+        "Coming of Age Films",
+        "Christmas",
+        "Creature Features",
+        "Crossovers",
+        "Classic Remakes",
+        "Classic Films",
+        "Crime Thrillers",
+        "Cult Classics",
+        "Coming-of-Age Films",
+        "Comedy Films",
+        "Cinema Classics",
+        "Cult Horror",
+        "Courtroom Thrillers",
+        "Classic Westerns",
+        "Classic Musicals"
+    ],
+    "D": [
+        "Drama Films",
+        "Documentary",
+        "Disney",
+        "DC",
+        "Disaster",
+        "Dance",
+        "Detective",
+        "Dark Comedies",
+        "Documentary Films",
+        "Drama",
+        "Disaster Films",
+        "Dystopian Films",
+        "Dance Films"
+    ],
+    "T": [
+        "Thriller",
+        "Time Travel",
+        "Teen",
+        "Tragicomedies",
+        "Tearjerkers",
+        "Top",
+        "True Crime",
+        "Top Rated",
+        "True Story Films"
+    ],
+    "H": [
+        "Horror Films",
+        "Historical",
+        "Heist",
+        "Holiday",
+        "Halloween",
+        "Horror Comedy",
+        "Horror",
+        "Historical Films"
+    ],
+    "R": [
+        "Romantic",
+        "Religious Films",
+        "Road",
+        "Rom-Coms",
+        "Remakes",
+        "Reboots",
+        "Romantic Comedies",
+        "Romantic Dramas",
+        "Romance",
+        "Revenge",
+        "Road Trip"
+    ],
+    "S": [
+        "Sci-Fi",
+        "Superhero",
+        "Sports",
+        "Silent",
+        "Short Films",
+        "Sundance Films",
+        "Spy",
+        "Summer Blockbusters",
+        "Satirical",
+        "Sea Adventures",
+        "Space Operas",
+        "Survival",
+        "Spy Thrillers",
+        "School",
+        "Slasher",
+        "Sequels",
+        "Spin-offs",
+        "Silent Films",
+        "Suspense Thrillers",
+        "Sci-Fi Action",
+        "Sci-Fi Horror",
+        "Silent Era Films",
+        "Slasher Films",
+        "Spoilers",
+        "Streaming",
+        "Supernatural",
+        "Survival Films",
+        "Satirical Films",
+        "Silent Comedies",
+        "Sword and Sorcery Films",
+        "Spy Action Films"
+    ],
+    "F": [
+        "Fantasy",
+        "Family",
+        "Foreign Films",
+        "Film Noir",
+        "Fantasy Adventures",
+        "Found Footage Films",
+        "Franchise Films",
+        "Festival Favorites",
+        "Family Films",
+        "Fantasy Adventure",
+        "Film Analysis",
+        "Film Criticism",
+        "Film Festivals",
+        "Film Recommendations",
+        "Film Editing Techniques",
+        "Family Adventures",
+        "Fantasy Dramas"
+    ],
+    "M": [
+        "Mystery Films",
+        "Musical Films",
+        "Marvel",
+        "Martial Arts",
+        "Mockumentaries",
+        "Meta",
+        "Martial Arts Films",
+        "Movie Reviews",
+        "Movie Trailers",
+        "Mystery",
+        "Monster",
+        "Movie Clips",
+        "Movie Comparisons",
+        "Movie Discussions",
+        "Movie Endings Explained",
+        "Movie Explainers",
+        "Movie Facts",
+        "Movie Histories",
+        "Movie Lists",
+        "Movie News",
+        "Movie Parodies",
+        "Movie Plot Twists",
+        "Movie Rankings",
+        "Movie Reviews Channel",
+        "Movie Scenes",
+        "Movie Theories",
+        "Mystery Thrillers",
+        "Movie Soundtracks"
+    ],
+    "I": [
+        "Independent Films",
+        "Inspirational",
+        "Indie Gems",
+        "Inspirational Biographies"
+    ],
+    "K": [
+        "Kids",
+        "Kung Fu Films"
+    ],
+    "W": [
+        "War Films",
+        "Western",
+        "Wilderness",
+        "War",
+        "Western Films",
+        "War Dramas",
+        "Werewolf"
+    ],
+    "B": [
+        "Biographical",
+        "Black and White",
+        "Bollywood",
+        "Blockbuster",
+        "Box Office Hits",
+        "Blockbusters",
+        "Book Adaptations",
+        "B-",
+        "Based on True Stories",
+        "Blockbuster Films",
+        "Best Picture Winners",
+        "Buddy"
+    ],
+    "E": [
+        "Experimental Films",
+        "Epic",
+        "Epic Films",
+        "Espionage Thrillers"
+    ],
+    "O": [
+        "Oscar-Winning",
+        "Oscar Winners"
+    ],
+    "N": [
+        "Netflix Originals",
+        "New Releases",
+        "Netflix",
+        "Notable Directors",
+        "Notable Performances"
+    ],
+    "P": [
+        "Pixar",
+        "Psychological Thrillers",
+        "Post-Apocalyptic",
+        "Political",
+        "Paranormal",
+        "Prison",
+        "Prequels",
+        "Parody",
+        "Popcorn Flicks",
+        "Popular",
+        "Psychological Dramas",
+        "Period Dramas",
+        "Political Thrillers",
+        "Paranormal Films"
+    ],
+    "L": [
+        "LGBTQ+",
+        "Legal Thrillers",
+        "Low Budget",
+        "Love Stories"
+    ],
+    "Z": [
+        "Zombie"
+    ],
+    "V": [
+        "Vampire",
+        "Video Essays",
+        "Vampire Films"
+    ],
+    "U": [
+        "Underwater",
+        "Underrated Films",
+        "Upcoming",
+        "Urban Films"
+    ],
+    "G": [
+        "Gangster",
+        "Gangster Films"
+    ],
+    "t": [
+        "to Watch"
+    ],
+    "8": [
+        "80s"
+    ],
+    "9": [
+        "90s"
+    ],
+    "J": [
+        "Japanese Animation"
+    ],
+    "m": [
+        "movie Reviews",
+        "movie News",
+        "movie making process",
+        "movie making",
+        "movie"
+    ],
+    "n": [
+        "new movie Reviews",
+        "new movie"
+    ],
+    "l": [
+        "latest movie"
+    ]
+}

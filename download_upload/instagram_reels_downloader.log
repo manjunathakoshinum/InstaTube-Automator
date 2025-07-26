@@ -1,0 +1,441 @@
+2024-08-07 08:59:39,328 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 08:59:47,594 - INFO - Found 5 reel elements on the current page for myodmediagroup.
+2024-08-07 08:59:55,428 - INFO - Found 12 reel elements on the current page for bespiretv.
+2024-08-07 09:00:04,024 - INFO - Found 9 reel elements on the current page for the.film.culture.
+2024-08-07 09:00:12,812 - INFO - Found 12 reel elements on the current page for kazamatv96.
+2024-08-07 09:00:21,136 - INFO - Found 12 reel elements on the current page for moviejunky7.
+2024-08-07 09:00:30,764 - INFO - Found 12 reel elements on the current page for quotable_films.
+2024-08-07 09:00:37,709 - INFO - Found 12 reel elements on the current page for stories_tellers_.
+2024-08-07 09:00:45,474 - INFO - Found 12 reel elements on the current page for thegooodfilms.
+2024-08-07 09:00:54,081 - INFO - Found 12 reel elements on the current page for katcatsu.
+2024-08-07 09:01:02,188 - INFO - Found 12 reel elements on the current page for awesomenesstv.
+2024-08-07 09:01:18,730 - INFO - Downloaded: https://www.instagram.com/thegooodfilms/reel/C5BS6sxP9jU/
+2024-08-07 09:01:31,714 - INFO - Downloaded: https://www.instagram.com/myodmediagroup/reel/C-VnYzpyL-s/
+2024-08-07 09:02:55,036 - ERROR - Error setting up WebDriver: Message: Process unexpectedly closed with status 0
+
+2024-08-07 09:12:40,731 - ERROR - Error in function login_instaloader (Attempt 1/3): Login error: Wrong password.
+2024-08-07 09:12:48,641 - ERROR - Error in function login_instaloader (Attempt 2/3): Login error: Wrong password.
+2024-08-07 09:12:57,437 - ERROR - Error in function login_instaloader (Attempt 3/3): Login error: Wrong password.
+2024-08-07 09:13:25,145 - ERROR - Error in function login_instaloader (Attempt 1/3): Login error: Wrong password.
+2024-08-07 09:13:32,953 - ERROR - Error in function login_instaloader (Attempt 2/3): Login error: Wrong password.
+2024-08-07 09:13:40,139 - ERROR - Error in function login_instaloader (Attempt 3/3): Login error: Wrong password.
+2024-08-07 09:13:45,154 - ERROR - Max login attempts reached. Exiting.
+2024-08-07 09:24:38,704 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:24:38,704 - INFO - Retrying login (1/3)...
+2024-08-07 09:24:46,814 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:24:46,814 - INFO - Retrying login (2/3)...
+2024-08-07 09:27:05,702 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:27:05,702 - INFO - Retrying login (1/3)...
+2024-08-07 09:27:14,871 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:27:14,871 - INFO - Retrying login (2/3)...
+2024-08-07 09:27:22,494 - ERROR - Login failed: Login error: "fail" status, message "".
+2024-08-07 09:27:22,494 - ERROR - Max login attempts reached. Exiting.
+2024-08-07 09:29:14,139 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:29:14,139 - INFO - Retrying login (1/3)...
+2024-08-07 09:29:24,999 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:29:24,999 - INFO - Retrying login (2/3)...
+2024-08-07 09:29:32,864 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:29:32,864 - ERROR - Max login attempts reached. Exiting.
+2024-08-07 09:31:12,752 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:31:12,752 - INFO - Retrying login (1/3)...
+2024-08-07 09:31:24,027 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:31:24,027 - INFO - Retrying login (2/3)...
+2024-08-07 09:32:29,395 - ERROR - Login failed: Login error: Wrong password.
+2024-08-07 09:40:04,194 - INFO - Logged in and saved session for nathkoshinum
+2024-08-07 09:40:14,014 - INFO - Found 10 reel elements on the current page for damijan.verdonik.
+2024-08-07 09:40:21,917 - INFO - Found 4 reel elements on the current page for movies.verse.
+2024-08-07 09:40:29,071 - INFO - Found 12 reel elements on the current page for aehaunteds.
+2024-08-07 09:40:33,370 - ERROR - Error in function get_instagram_reels_links (Attempt 1/3): Message: Failed to decode response from marionette
+
+2024-08-07 09:40:36,371 - ERROR - Error in function get_instagram_reels_links (Attempt 2/3): Message: Tried to run command without establishing a connection
+
+2024-08-07 09:40:39,375 - ERROR - Error in function get_instagram_reels_links (Attempt 3/3): Message: Tried to run command without establishing a connection
+
+2024-08-07 09:40:42,376 - ERROR - An error occurred: Max retries reached for function get_instagram_reels_links
+2024-08-07 09:40:44,431 - INFO - Driver has been cleaned up.
+2024-08-07 09:42:01,621 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 09:42:07,786 - INFO - Found 6 reel elements on the current page for netflixfamily.
+2024-08-07 09:42:15,555 - INFO - Found 12 reel elements on the current page for moviemaker2024.
+2024-08-07 09:45:40,942 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 09:45:47,148 - INFO - Found 12 reel elements on the current page for interestingg_movies.
+2024-08-07 09:50:52,846 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 09:51:03,883 - INFO - Found 7 reel elements on the current page for jokincentral.
+2024-08-07 09:51:11,805 - ERROR - Error during scrolling: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:781:15
+GeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:693:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+2024-08-07 09:51:16,756 - ERROR - Error fetching reels for quicksarcasm: Message: Failed to decode response from marionette
+
+2024-08-07 09:51:20,815 - ERROR - Error fetching reels for meme_subordinates: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:24,967 - ERROR - Error fetching reels for unknowno2o2: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:27,910 - ERROR - Error fetching reels for neon_pmbl: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:30,318 - ERROR - Error fetching reels for trollface_sigmas: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:34,071 - ERROR - Error fetching reels for parvinderchandhok: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:38,177 - ERROR - Error fetching reels for streetartglobe: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:41,634 - ERROR - Error fetching reels for dailydoseof1nstagram: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:44,180 - ERROR - Error fetching reels for born4_fun: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:46,670 - ERROR - Error fetching reels for officialmarck: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:51,253 - ERROR - Error fetching reels for bizbaze: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:55,833 - ERROR - Error fetching reels for myodmediagroup: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:51:59,407 - ERROR - Error fetching reels for bespiretv: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:02,659 - ERROR - Error fetching reels for the.film.culture: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:04,799 - ERROR - Error fetching reels for kazamatv96: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:09,116 - ERROR - Error fetching reels for moviejunky7: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:11,949 - ERROR - Error fetching reels for quotable_films: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:14,485 - ERROR - Error fetching reels for stories_tellers_: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:17,968 - ERROR - Error fetching reels for thegooodfilms: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:20,521 - ERROR - Error fetching reels for katcatsu: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:24,917 - ERROR - Error fetching reels for awesomenesstv: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:28,719 - ERROR - Error fetching reels for damijan.verdonik: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:31,842 - ERROR - Error fetching reels for movies.verse: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:35,173 - ERROR - Error fetching reels for aehaunteds: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:39,982 - ERROR - Error fetching reels for netflixfamily: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:44,901 - ERROR - Error fetching reels for moviemaker2024: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:49,283 - ERROR - Error fetching reels for interestingg_movies: Message: Tried to run command without establishing a connection
+
+2024-08-07 09:52:54,403 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 09:53:02,788 - INFO - Found 7 reel elements on the current page for jokincentral.
+2024-08-07 09:53:08,387 - INFO - Downloaded: https://www.instagram.com/reel/C7MnCiyIk0N/
+2024-08-07 09:53:08,389 - INFO - Total number of videos downloaded: 1
+2024-08-07 09:53:08,389 - INFO - Number of reels fetched from each username: {'jokincentral': 1, 'olaadesigner': 0, 'quicksarcasm': 0, 'meme_subordinates': 0, 'unknowno2o2': 0, 'neon_pmbl': 0, 'trollface_sigmas': 0, 'parvinderchandhok': 0, 'streetartglobe': 0, 'dailydoseof1nstagram': 0, 'born4_fun': 0, 'officialmarck': 0, 'bizbaze': 0, 'myodmediagroup': 0, 'bespiretv': 0, 'the.film.culture': 0, 'kazamatv96': 0, 'moviejunky7': 0, 'quotable_films': 0, 'stories_tellers_': 0, 'thegooodfilms': 0, 'katcatsu': 0, 'awesomenesstv': 0, 'damijan.verdonik': 0, 'movies.verse': 0, 'aehaunteds': 0, 'netflixfamily': 0, 'moviemaker2024': 0, 'interestingg_movies': 0}
+2024-08-07 09:53:10,455 - INFO - Driver has been cleaned up.
+2024-08-07 09:53:12,041 - INFO - Found 12 reel elements on the current page for olaadesigner.
+2024-08-07 09:53:19,043 - INFO - Found 12 reel elements on the current page for quicksarcasm.
+2024-08-07 09:53:29,406 - INFO - Found 12 reel elements on the current page for meme_subordinates.
+2024-08-07 09:53:37,923 - INFO - Found 12 reel elements on the current page for unknowno2o2.
+2024-08-07 09:53:47,976 - INFO - Found 12 reel elements on the current page for neon_pmbl.
+2024-08-07 09:53:56,795 - INFO - Found 12 reel elements on the current page for trollface_sigmas.
+2024-08-07 09:54:18,530 - INFO - Found 10 reel elements on the current page for streetartglobe.
+2024-08-07 09:54:25,910 - INFO - Found 11 reel elements on the current page for dailydoseof1nstagram.
+2024-08-07 09:54:34,647 - INFO - Found 8 reel elements on the current page for born4_fun.
+2024-08-07 09:54:50,176 - INFO - Downloaded: https://www.instagram.com/reel/C-Qs6qKSPd-/
+2024-08-07 09:54:53,078 - INFO - Downloaded: https://www.instagram.com/reel/C7MnCiyIk0N/
+2024-08-07 09:55:09,608 - INFO - Downloaded: https://www.instagram.com/reel/C9HuoQfAoOV/
+2024-08-07 09:55:22,079 - INFO - Downloaded: https://www.instagram.com/reel/C-J0FQBoC6v/
+2024-08-07 09:55:34,184 - INFO - Downloaded: https://www.instagram.com/reel/C-Q9Geuo1I-/
+2024-08-07 09:55:46,271 - INFO - Downloaded: https://www.instagram.com/reel/C-VPZZkyt7c/
+2024-08-07 09:55:54,268 - INFO - Downloaded: https://www.instagram.com/reel/C-WeGDFoH2h/
+2024-08-07 09:55:59,362 - INFO - Downloaded: https://www.instagram.com/reel/C7glCsLPGeM/
+2024-08-07 09:56:06,625 - INFO - Downloaded: https://www.instagram.com/reel/C-UfQg4Ix5w/
+2024-08-07 09:56:45,155 - INFO - Downloaded: https://www.instagram.com/reel/C5OSX4ySSVa/
+2024-08-07 09:56:45,157 - INFO - Total number of videos downloaded: 10
+2024-08-07 09:56:45,157 - INFO - Number of reels fetched from each username: {'jokincentral': 1, 'olaadesigner': 1, 'quicksarcasm': 1, 'meme_subordinates': 1, 'unknowno2o2': 1, 'neon_pmbl': 1, 'trollface_sigmas': 1, 'parvinderchandhok': 0, 'streetartglobe': 1, 'dailydoseof1nstagram': 1, 'born4_fun': 1}
+2024-08-07 09:56:47,613 - INFO - Driver has been cleaned up.
+2024-08-07 15:08:41,984 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2023-12-28_17-22-56_UTC.mp4
+2024-08-07 15:08:41,997 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2023-12-28_17-22-56_UTC.txt
+2024-08-07 15:08:41,997 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2023-12-28_17-22-56_UTC.jpg
+2024-08-07 15:08:41,998 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json
+2024-08-07 15:09:51,607 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 15:10:15,726 - ERROR - Error loading JSON file: Expecting value: line 1 column 1 (char 0)
+2024-08-07 15:10:18,977 - ERROR - Error loading last username JSON file: Expecting value: line 1 column 1 (char 0)
+2024-08-07 15:10:26,997 - INFO - Found 4 reel elements on the current page for the.filmypedia.
+2024-08-07 15:10:36,879 - INFO - Found 10 reel elements on the current page for moviequotes.
+2024-08-07 15:10:46,721 - INFO - Found 6 reel elements on the current page for 90sandmovies.
+2024-08-07 15:10:54,933 - INFO - Found 6 reel elements on the current page for filmthusiast.
+2024-08-07 15:11:03,738 - INFO - Found 8 reel elements on the current page for cinephile.club.
+2024-08-07 15:11:10,674 - INFO - Found 3 reel elements on the current page for i.bharatgoradia.
+2024-08-07 15:11:18,282 - INFO - Found 8 reel elements on the current page for netflixtweeted.
+2024-08-07 15:11:28,104 - INFO - Found 9 reel elements on the current page for the_goodfilms.
+2024-08-07 15:11:38,122 - INFO - Found 10 reel elements on the current page for yrf.
+2024-08-07 15:11:45,025 - INFO - Found 12 reel elements on the current page for eatmovies.
+2024-08-07 15:11:55,936 - INFO - Downloaded: https://www.instagram.com/reel/C9fRh3ZPM9X/
+2024-08-07 15:12:02,662 - INFO - Downloaded: https://www.instagram.com/reel/C-WT3YtS3fk/
+2024-08-07 15:12:09,356 - INFO - Downloaded: https://www.instagram.com/reel/CqqRVmpLtsH/
+2024-08-07 15:12:16,387 - INFO - Downloaded: https://www.instagram.com/reel/CGP1LyHBYs2/
+2024-08-07 15:12:21,014 - INFO - Downloaded: https://www.instagram.com/reel/C-W2ZmZo_uD/
+2024-08-07 15:12:27,850 - INFO - Downloaded: https://www.instagram.com/reel/C09OR3pvI6o/
+2024-08-07 15:12:35,607 - INFO - Downloaded: https://www.instagram.com/reel/C-Vr1YjIjww/
+2024-08-07 15:12:42,564 - INFO - Downloaded: https://www.instagram.com/reel/CXOr4N4gDEg/
+2024-08-07 15:12:54,905 - INFO - Downloaded: https://www.instagram.com/reel/C0aL7z7oecN/
+2024-08-07 15:13:05,044 - INFO - Downloaded: https://www.instagram.com/reel/C-VTpVtt37j/
+2024-08-07 15:13:05,044 - INFO - Total number of videos downloaded: 10
+2024-08-07 15:13:05,044 - INFO - Number of reels fetched from each username: {'the.filmypedia': 1, 'moviequotes': 1, '90sandmovies': 1, 'filmthusiast': 1, 'cinephile.club': 1, 'i.bharatgoradia': 1, 'netflixtweeted': 1, 'the_goodfilms': 1, 'yrf': 1, 'eatmovies': 1}
+2024-08-07 15:13:07,551 - INFO - Driver has been cleaned up.
+2024-08-07 15:53:59,540 - ERROR - An  error in uploadMessage: The element with the reference 03c4b9e3-ad23-4898-bd81-f8b5aaf30d62 is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+StaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:725:5
+getKnownElement@chrome://remote/content/marionette/json.sys.mjs:401:11
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:259:20
+cloneObject@chrome://remote/content/marionette/json.sys.mjs:59:24
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16
+json.deserialize@chrome://remote/content/marionette/json.sys.mjs:293:10
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:73:30
+
+2024-08-07 15:54:14,165 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000274085FDDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fdae0c62-21f2-4c61-9446-fa2b11a894d2
+2024-08-07 15:54:18,222 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000274085FF560>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fdae0c62-21f2-4c61-9446-fa2b11a894d2
+2024-08-07 15:54:22,274 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000274085FE060>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fdae0c62-21f2-4c61-9446-fa2b11a894d2
+2024-08-07 16:48:48,875 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 16:48:56,402 - INFO - Found 12 reel elements on the current page for movienfreaks.
+2024-08-07 17:01:07,583 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 17:01:51,759 - INFO - Found 12 reel elements on the current page for seriesoffical.
+2024-08-07 17:02:27,164 - INFO - Found 12 reel elements on the current page for moviesunofficial.
+2024-08-07 17:02:58,921 - INFO - Found 12 reel elements on the current page for outstandingscreenplays.
+2024-08-07 17:03:18,166 - INFO - Found 24 reel elements on the current page for zippy_fx.
+2024-08-07 17:03:30,425 - INFO - Found 24 reel elements on the current page for teenp1ayz.
+2024-08-07 17:04:39,960 - INFO - Found 12 reel elements on the current page for ghost_edite.
+2024-08-07 17:05:15,906 - INFO - Found 12 reel elements on the current page for maggoboom.
+2024-08-07 17:05:37,737 - INFO - Found 12 reel elements on the current page for yangsfamilyadventures.
+2024-08-07 17:06:11,940 - INFO - Found 12 reel elements on the current page for netflixmovietvshow.
+2024-08-07 17:06:43,574 - INFO - Found 12 reel elements on the current page for charmuld.
+2024-08-07 17:07:12,648 - INFO - Downloaded: https://www.instagram.com/reel/C-VjZBNCNio/
+2024-08-07 17:07:16,828 - ERROR - Failed to download https://www.instagram.com/reel/C-XbovXxMwG/: Fetching Post metadata failed.
+2024-08-07 17:07:22,625 - INFO - Downloaded: https://www.instagram.com/reel/C-Q01ejtHCb/
+2024-08-07 17:07:34,856 - INFO - Downloaded: https://www.instagram.com/reel/C-VfqozNt8j/
+2024-08-07 17:07:39,275 - INFO - Downloaded: https://www.instagram.com/reel/C931MbKxq9E/
+2024-08-07 17:07:48,260 - INFO - Downloaded: https://www.instagram.com/reel/CN0CERhFoTf/
+2024-08-07 17:07:59,127 - INFO - Downloaded: https://www.instagram.com/reel/C-NMX2wSL4k/
+2024-08-07 17:08:19,473 - INFO - Downloaded: https://www.instagram.com/reel/C-VP4oevzgI/
+2024-08-07 17:08:35,385 - INFO - Downloaded: https://www.instagram.com/reel/C-VSQnutVVZ/
+2024-08-07 17:08:53,149 - INFO - Downloaded: https://www.instagram.com/reel/C-FdwdVBR3h/
+2024-08-07 17:08:53,149 - INFO - Total number of videos downloaded: 9
+2024-08-07 17:08:53,149 - INFO - Number of reels fetched from each username: {'seriesoffical': 1, 'moviesunofficial': 1, 'outstandingscreenplays': 1, 'zippy_fx': 1, 'teenp1ayz': 1, 'musicnationhq': 0, 'ghost_edite': 1, 'maggoboom': 1, 'yangsfamilyadventures': 1, 'netflixmovietvshow': 1, 'charmuld': 1}
+2024-08-07 17:08:56,037 - INFO - Driver has been cleaned up.
+2024-08-07 17:09:18,540 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 17:10:04,480 - INFO - Found 12 reel elements on the current page for brimoviee.
+2024-08-07 17:10:20,327 - INFO - Downloaded: https://www.instagram.com/reel/C6-8DtNuXQ7/
+2024-08-07 17:10:20,328 - INFO - Total number of videos downloaded: 1
+2024-08-07 17:10:20,328 - INFO - Number of reels fetched from each username: {'brimoviee': 1}
+2024-08-07 17:10:22,860 - INFO - Driver has been cleaned up.
+2024-08-07 17:13:38,467 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CBDB87ED80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/32807a3c-dd8e-45d9-8075-5fe5e44e07dc
+2024-08-07 17:13:42,511 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CBDB87CBF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/32807a3c-dd8e-45d9-8075-5fe5e44e07dc
+2024-08-07 17:13:46,567 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CBDB87FA70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/32807a3c-dd8e-45d9-8075-5fe5e44e07dc
+2024-08-07 18:07:46,942 - INFO - Loaded session from file for nathkoshinum
+2024-08-07 18:08:20,213 - INFO - Found 24 reel elements on the current page for ohgod.
+2024-08-07 18:08:46,481 - INFO - Found 12 reel elements on the current page for kazamatv96.
+2024-08-07 18:09:11,639 - INFO - Found 12 reel elements on the current page for ivedaddyisssues.
+2024-08-07 18:09:30,276 - INFO - Found 12 reel elements on the current page for comrade._.cinephile.
+2024-08-07 18:09:38,236 - INFO - Found 12 reel elements on the current page for filmaesthete.
+2024-08-07 18:10:13,490 - INFO - Found 12 reel elements on the current page for hollywood_magic_hindi.
+2024-08-07 18:10:23,131 - INFO - Found 12 reel elements on the current page for hindi.
+2024-08-07 18:11:00,527 - INFO - Found 12 reel elements on the current page for movies_.memes.
+2024-08-07 18:11:32,883 - INFO - Found 12 reel elements on the current page for quotable_films.
+2024-08-07 18:12:07,007 - INFO - Found 12 reel elements on the current page for thefilmzone.
+2024-08-07 18:12:19,878 - INFO - Found 12 reel elements on the current page for euphoria.addicts.
+2024-08-07 18:12:40,037 - INFO - Found 12 reel elements on the current page for filmpursuant.
+2024-08-07 18:13:23,752 - INFO - Found 12 reel elements on the current page for the.film.culture.
+2024-08-07 18:13:52,696 - INFO - Found 12 reel elements on the current page for showmovie.tv.
+2024-08-07 18:14:18,013 - INFO - Found 12 reel elements on the current page for filmatic.
+2024-08-07 18:14:52,171 - INFO - Found 12 reel elements on the current page for movie.clips.online.
+2024-08-07 18:15:15,010 - INFO - Found 12 reel elements on the current page for moviesoffcial.
+2024-08-07 18:15:37,251 - INFO - Found 12 reel elements on the current page for heavenreelss.
+2024-08-07 18:16:00,425 - INFO - Found 12 reel elements on the current page for pop_cj6.
+2024-08-07 18:16:35,462 - INFO - Found 12 reel elements on the current page for wasted.
+2024-08-07 18:17:09,994 - INFO - Found 12 reel elements on the current page for 90_meemz.
+2024-08-07 18:17:39,168 - INFO - Found 12 reel elements on the current page for movieshowstime.
+2024-08-07 18:18:08,948 - INFO - Found 12 reel elements on the current page for movie_scenes_eng.
+2024-08-07 18:18:32,183 - INFO - Found 12 reel elements on the current page for findingoodfilms.
+2024-08-07 18:18:59,818 - INFO - Found 12 reel elements on the current page for zakii_repost.
+2024-08-07 18:20:29,176 - INFO - Found 12 reel elements on the current page for fuckboyproblem.s.
+2024-08-07 18:20:42,515 - INFO - Found 12 reel elements on the current page for __moodvibes_.
+2024-08-07 18:21:14,786 - INFO - Found 12 reel elements on the current page for bespiretv.
+2024-08-07 18:21:39,478 - INFO - Found 12 reel elements on the current page for moviejunky7.
+2024-08-07 18:22:20,703 - INFO - Found 12 reel elements on the current page for stories_tellers_.
+2024-08-07 18:22:35,597 - INFO - Downloaded: https://www.instagram.com/reel/C-Vh6Y1PQ-8/
+2024-08-07 18:22:47,521 - INFO - Downloaded: https://www.instagram.com/reel/C-XfonlPTL_/
+2024-08-07 18:22:55,095 - INFO - Downloaded: https://www.instagram.com/reel/C-VUYzxovSa/
+2024-08-07 18:23:01,329 - INFO - Downloaded: https://www.instagram.com/reel/C-SyiFtSG29/
+2024-08-07 18:23:14,438 - INFO - Downloaded: https://www.instagram.com/reel/C-LNfizouGq/
+2024-08-07 18:23:23,789 - INFO - Downloaded: https://www.instagram.com/reel/C-VZmCaOf1B/
+2024-08-07 18:23:32,522 - INFO - Downloaded: https://www.instagram.com/reel/CmZkLFXIrwj/
+2024-08-07 18:23:42,011 - INFO - Downloaded: https://www.instagram.com/reel/C192XwxvP2o/
+2024-08-07 18:23:50,783 - INFO - Downloaded: https://www.instagram.com/reel/C-XnmM1I_8g/
+2024-08-07 18:24:01,707 - INFO - Downloaded: https://www.instagram.com/reel/C-SlVZ9oKK4/
+2024-08-07 18:24:14,653 - INFO - Downloaded: https://www.instagram.com/reel/C-XYNq9tfzb/
+2024-08-07 18:24:19,936 - INFO - Downloaded: https://www.instagram.com/reel/CaqEmNapxjg/
+2024-08-07 18:24:33,956 - INFO - Downloaded: https://www.instagram.com/reel/C-XRE5tpe2A/
+2024-08-07 18:24:43,329 - INFO - Downloaded: https://www.instagram.com/reel/C-TEV6KIs3X/
+2024-08-07 18:24:56,599 - INFO - Downloaded: https://www.instagram.com/reel/C-XmbAIy5zB/
+2024-08-07 18:25:12,083 - INFO - Downloaded: https://www.instagram.com/reel/C6mBu8aNLX2/
+2024-08-07 18:25:25,832 - INFO - Downloaded: https://www.instagram.com/reel/C-WzzMrMqJb/
+2024-08-07 18:25:39,926 - INFO - Downloaded: https://www.instagram.com/reel/CCm0Lk8jyyP/
+2024-08-07 18:25:46,349 - INFO - Downloaded: https://www.instagram.com/reel/C-WXcovSA8B/
+2024-08-07 18:25:59,895 - INFO - Downloaded: https://www.instagram.com/reel/CYy6jjEIuJf/
+2024-08-07 18:26:07,631 - INFO - Downloaded: https://www.instagram.com/reel/C-WbivqIxHQ/
+2024-08-07 18:26:17,001 - INFO - Downloaded: https://www.instagram.com/reel/C-Xi6Bcq7Bx/
+2024-08-07 18:26:23,086 - INFO - Downloaded: https://www.instagram.com/reel/C-VnrYAMPlO/
+2024-08-07 18:26:34,256 - INFO - Downloaded: https://www.instagram.com/reel/C-QTfqNsiJ0/
+2024-08-07 18:26:43,437 - INFO - Downloaded: https://www.instagram.com/reel/C-WKmkfOMwz/
+2024-08-07 18:26:53,713 - INFO - Downloaded: https://www.instagram.com/reel/C-Xgg8CtxTc/
+2024-08-07 18:27:06,729 - INFO - Downloaded: https://www.instagram.com/reel/C-SqgtkBsue/
+2024-08-07 18:27:17,455 - INFO - Downloaded: https://www.instagram.com/reel/C97o0s_I0eP/
+2024-08-07 18:27:29,853 - INFO - Downloaded: https://www.instagram.com/reel/C2dboOeI-Jd/
+2024-08-07 18:27:41,071 - INFO - Downloaded: https://www.instagram.com/reel/C-XKfdat7bd/
+2024-08-07 18:27:41,071 - INFO - Total number of videos downloaded: 30
+2024-08-07 18:27:41,071 - INFO - Number of reels fetched from each username: {'ohgod': 1, 'kazamatv96': 1, 'ivedaddyisssues': 1, 'comrade._.cinephile': 1, 'filmaesthete': 1, 'hollywood_magic_hindi': 1, 'hindi': 1, 'movies_.memes': 1, 'quotable_films': 1, 'thefilmzone': 1, 'euphoria.addicts': 1, 'filmpursuant': 1, 'the.film.culture': 1, 'showmovie.tv': 1, 'filmatic': 1, 'movie.clips.online': 1, 'moviesoffcial': 1, 'heavenreelss': 1, 'pop_cj6': 1, 'wasted': 1, '90_meemz': 1, 'movieshowstime': 1, 'movie_scenes_eng': 1, 'findingoodfilms': 1, 'zakii_repost': 1, 'best meems': 0, 'fuckboyproblem.s': 1, '__moodvibes_': 1, 'bespiretv': 1, 'moviejunky7': 1, 'stories_tellers_': 1}
+2024-08-07 18:27:44,558 - INFO - Driver has been cleaned up.
+2024-08-07 18:38:03,367 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-07_00-29-37_UTC.mp4
+2024-08-07 18:38:03,367 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-07_00-29-37_UTC.txt
+2024-08-07 18:38:03,367 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-07_00-29-37_UTC.jpg
+2024-08-07 18:38:03,367 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-07 18:44:29,252 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-07-17_21-30-00_UTC.mp4
+2024-08-07 18:44:29,252 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-07-17_21-30-00_UTC.txt
+2024-08-07 18:44:29,252 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-07-17_21-30-00_UTC.jpg
+2024-08-07 18:44:29,252 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-07 18:49:13,316 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-07-31_11-32-55_UTC.mp4
+2024-08-07 18:49:13,316 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-07-31_11-32-55_UTC.txt
+2024-08-07 18:49:13,316 - WARNING - image_file not found or already deleted: None
+2024-08-07 18:49:13,316 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-07 18:53:32,616 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-02_17-05-46_UTC.mp4
+2024-08-07 18:53:32,616 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-02_17-05-46_UTC.txt
+2024-08-07 18:53:32,616 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-02_17-05-46_UTC.jpg
+2024-08-07 18:53:32,616 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-07 21:00:23,152 - ERROR - Error deleting video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-06_15-08-12_UTC.mp4. Error: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\instagram_to_youtube\\youtube_channel\\movies\\downloaded_videos\\2024-08-06_15-08-12_UTC.mp4'
+2024-08-07 21:00:23,152 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-06_15-08-12_UTC.txt
+2024-08-07 21:00:23,152 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-06_15-08-12_UTC.jpg
+2024-08-07 21:00:23,152 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-07 21:03:52,715 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-04_16-30-54_UTC.mp4
+2024-08-07 21:03:52,715 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-04_16-30-54_UTC.txt
+2024-08-07 21:03:52,715 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-04_16-30-54_UTC.jpg
+2024-08-07 21:03:52,715 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-07 21:07:29,404 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-06_14-57-19_UTC.mp4
+2024-08-07 21:07:29,404 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-06_14-57-19_UTC.txt
+2024-08-07 21:07:29,404 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-06_14-57-19_UTC.jpg
+2024-08-07 21:07:29,404 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-07 21:10:20,565 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027D512CB710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a6722e9d-9c55-4f82-b91c-66e0796bbc59
+2024-08-07 21:10:24,614 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027D512E95B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a6722e9d-9c55-4f82-b91c-66e0796bbc59
+2024-08-07 21:10:28,678 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027D512EAA20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a6722e9d-9c55-4f82-b91c-66e0796bbc59
+2024-08-07 21:10:36,823 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-07_11-59-49_UTC.mp4
+2024-08-07 21:10:36,823 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-07_11-59-49_UTC.txt
+2024-08-07 21:10:36,823 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-08-07_11-59-49_UTC.jpg
+2024-08-07 21:10:36,823 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-07 21:18:25,596 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-01-23_22-42-15_UTC.mp4
+2024-08-07 21:18:25,596 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-01-23_22-42-15_UTC.txt
+2024-08-07 21:18:25,596 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2024-01-23_22-42-15_UTC.jpg
+2024-08-07 21:18:25,596 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-08 09:01:57,530 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025DE44CBBC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/49c32ad6-d2a9-4f10-9c9d-426ecdc64644
+2024-08-08 09:02:01,601 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025DE44CACC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/49c32ad6-d2a9-4f10-9c9d-426ecdc64644
+2024-08-08 09:02:05,668 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025DE44CAD50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/49c32ad6-d2a9-4f10-9c9d-426ecdc64644
+2024-08-08 09:02:13,760 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2020-07-14_02-58-00_UTC.mp4
+2024-08-08 09:02:13,760 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2020-07-14_02-58-00_UTC.txt
+2024-08-08 09:02:13,760 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2020-07-14_02-58-00_UTC.jpg
+2024-08-08 09:02:13,760 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-08 09:05:30,123 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2020-10-12_14-47-17_UTC.mp4
+2024-08-08 09:05:30,123 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2020-10-12_14-47-17_UTC.txt
+2024-08-08 09:05:30,123 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2020-10-12_14-47-17_UTC.jpg
+2024-08-08 09:05:30,123 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-08 09:12:15,562 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2021-04-18_15-53-24_UTC.mp4
+2024-08-08 09:12:15,562 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2021-04-18_15-53-24_UTC.txt
+2024-08-08 09:12:15,562 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2021-04-18_15-53-24_UTC.jpg
+2024-08-08 09:12:15,568 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-08 09:19:56,941 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2022-01-16_15-17-19_UTC.mp4
+2024-08-08 09:19:56,941 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2022-01-16_15-17-19_UTC.txt
+2024-08-08 09:19:56,941 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2022-01-16_15-17-19_UTC.jpg
+2024-08-08 09:19:56,941 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-08 09:23:30,664 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2022-03-03_21-57-59_UTC.mp4
+2024-08-08 09:23:30,664 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2022-03-03_21-57-59_UTC.txt
+2024-08-08 09:23:30,664 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\movies\downloaded_videos\2022-03-03_21-57-59_UTC.jpg
+2024-08-08 09:23:30,664 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\movies\video_files_path.json
+2024-08-08 09:36:36,473 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-01-22_12-14-44_UTC.mp4
+2024-08-08 09:36:36,473 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-01-22_12-14-44_UTC.txt
+2024-08-08 09:36:36,473 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-01-22_12-14-44_UTC.jpg
+2024-08-08 09:36:36,473 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json
+2024-08-09 11:05:58,198 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-06-28_13-00-03_UTC.mp4
+2024-08-09 11:05:58,209 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-06-28_13-00-03_UTC.txt
+2024-08-09 11:05:58,210 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-06-28_13-00-03_UTC.jpg
+2024-08-09 11:05:58,210 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json
+2024-08-09 11:09:08,894 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-07-13_15-30-25_UTC.mp4
+2024-08-09 11:09:08,894 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-07-13_15-30-25_UTC.txt
+2024-08-09 11:09:08,895 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-07-13_15-30-25_UTC.jpg
+2024-08-09 11:09:08,896 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json
+2024-08-09 11:14:07,102 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-07-28_14-47-51_UTC.mp4
+2024-08-09 11:14:07,102 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-07-28_14-47-51_UTC.txt
+2024-08-09 11:14:07,102 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-07-28_14-47-51_UTC.jpg
+2024-08-09 11:14:07,113 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json
+2024-08-09 11:19:08,100 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-07-30_10-01-31_UTC.mp4
+2024-08-09 11:19:08,100 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-07-30_10-01-31_UTC.txt
+2024-08-09 11:19:08,100 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-07-30_10-01-31_UTC.jpg
+2024-08-09 11:19:08,100 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json
+2024-08-09 11:22:43,620 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-04_10-51-32_UTC.mp4
+2024-08-09 11:22:43,620 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-04_10-51-32_UTC.txt
+2024-08-09 11:22:43,620 - WARNING - image_file not found or already deleted: None
+2024-08-09 11:22:43,621 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json
+2024-08-09 11:26:37,918 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-04_12-28-04_UTC.mp4
+2024-08-09 11:26:37,918 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-04_12-28-04_UTC.txt
+2024-08-09 11:26:37,918 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-04_12-28-04_UTC.jpg
+2024-08-09 11:26:37,918 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json
+2024-08-09 11:31:03,225 - INFO - Deleted video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-04_19-37-17_UTC.mp4
+2024-08-09 11:31:03,226 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-04_19-37-17_UTC.txt
+2024-08-09 11:31:03,226 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-04_19-37-17_UTC.jpg
+2024-08-09 11:31:03,227 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json
+2024-08-10 14:17:51,390 - INFO - Loaded session from file for nathkoshinum
+2024-08-10 14:17:51,390 - ERROR - Error loading JSON file: Expecting value: line 1 column 1 (char 0)
+2024-08-10 14:18:45,406 - INFO - Found 24 reel elements on the current page for jakeguzman.
+2024-08-10 14:18:45,413 - ERROR - Error saving last username: [Errno 22] Invalid argument: 'D:\\instagram_to_youtube\\youtube_channel\nature\\last_username_file.json'
+2024-08-10 14:18:48,012 - INFO - Driver has been cleaned up.
+2024-08-10 14:19:37,766 - INFO - Loaded session from file for nathkoshinum
+2024-08-10 14:20:44,829 - ERROR - Error loading JSON file: Expecting value: line 1 column 1 (char 0)
+2024-08-10 14:23:04,083 - INFO - Loaded session from file for nathkoshinum
+2024-08-10 14:23:04,083 - ERROR - Error loading JSON file: Expecting value: line 1 column 1 (char 0)
+2024-08-10 14:23:43,768 - INFO - Found 12 reel elements on the current page for jakeguzman.
+2024-08-10 14:23:43,776 - ERROR - Error saving last username: [Errno 22] Invalid argument: 'D:\\instagram_to_youtube\\youtube_channel\nature\\last_username_file.json'
+2024-08-10 14:23:46,446 - INFO - Driver has been cleaned up.
+2024-08-10 14:24:28,157 - INFO - Loaded session from file for nathkoshinum
+2024-08-10 14:24:28,172 - ERROR - Error loading JSON file: Expecting value: line 1 column 1 (char 0)
+2024-08-10 14:25:02,892 - INFO - Found 12 reel elements on the current page for jakeguzman.
+2024-08-10 14:25:02,900 - ERROR - Error saving last username: [Errno 22] Invalid argument: 'D:\\instagram_to_youtube\\youtube_channel\nature\\last_username_file.json'
+2024-08-10 14:25:05,566 - INFO - Driver has been cleaned up.
+2024-08-10 14:26:03,683 - INFO - Loaded session from file for nathkoshinum
+2024-08-10 14:30:51,920 - INFO - Loaded session from file for nathkoshinum
+2024-08-10 14:30:55,226 - ERROR - Error loading JSON file: Expecting value: line 1 column 1 (char 0)
+2024-08-10 14:30:55,226 - INFO - Downloaded links are empty. Proceeding as a fresh run.
+2024-08-10 14:31:38,938 - INFO - Found 12 reel elements on the current page for jakeguzman.
+2024-08-10 14:33:10,352 - INFO - Loaded session from file for nathkoshinum
+2024-08-10 14:33:10,367 - INFO - Downloaded links are empty. Proceeding as a fresh run.
+2024-08-10 14:33:50,870 - INFO - Found 12 reel elements on the current page for jakeguzman.
+2024-08-10 14:41:29,643 - INFO - Loaded session from file for nathkoshinum
+2024-08-10 14:41:29,643 - INFO - Downloaded links are empty. Proceeding as a fresh run.
+2024-08-10 14:41:56,215 - INFO - Found 12 reel elements on the current page for jakeguzman.
+2024-08-10 14:42:30,678 - INFO - Found 12 reel elements on the current page for nature.
+2024-08-10 14:43:39,864 - INFO - Found 12 reel elements on the current page for maiduspace.
+2024-08-10 14:44:11,256 - INFO - Found 12 reel elements on the current page for birds.wildlife.nature.
+2024-08-10 14:44:25,736 - INFO - Found 12 reel elements on the current page for natureedition_.
+2024-08-10 14:44:44,724 - INFO - Downloaded: https://www.instagram.com/reel/C-TEefeqIGM/
+2024-08-10 14:44:57,159 - INFO - Downloaded: https://www.instagram.com/reel/C-c5oeDxTbL/
+2024-08-10 14:45:03,319 - INFO - Downloaded: https://www.instagram.com/reel/C-dKuHuR1OJ/
+2024-08-10 14:45:07,805 - INFO - Downloaded: https://www.instagram.com/reel/C-eppFXSzJp/
+2024-08-10 14:45:17,454 - INFO - Downloaded: https://www.instagram.com/reel/C-ONP-dq2Vf/
+2024-08-10 14:45:17,454 - INFO - Total number of videos downloaded: 5
+2024-08-10 14:45:17,454 - INFO - Number of reels fetched from each username: {'jakeguzman': 1, 'nature': 1, 'the_healingwind': 0, 'maiduspace': 1, 'birds.wildlife.nature': 1, 'natureedition_': 1}
+2024-08-10 14:45:27,470 - INFO - Driver has been cleaned up.
+2024-08-10 14:49:10,926 - ERROR - Error deleting video_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-05_18-20-33_UTC.mp4. Error: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\instagram_to_youtube\\youtube_channel\\nature\\downloaded_videos\\2024-08-05_18-20-33_UTC.mp4'
+2024-08-10 14:49:10,926 - INFO - Deleted text_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-05_18-20-33_UTC.txt
+2024-08-10 14:49:10,926 - INFO - Deleted image_file: D:\instagram_to_youtube\youtube_channel\nature\downloaded_videos\2024-08-05_18-20-33_UTC.jpg
+2024-08-10 14:49:10,926 - INFO - Updated JSON file: D:\instagram_to_youtube\youtube_channel\nature\video_files_path.json

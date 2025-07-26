@@ -1,0 +1,20 @@
+2024-08-27 22:06:32,430 - INFO - Loaded session from file for nathkoshinum
+2024-08-27 22:06:51,162 - INFO - Found 12 reel elements on the current page for twentisty.
+2024-08-27 22:07:16,578 - INFO - Found 12 reel elements on the current page for manish_charkul_editz.
+2024-08-27 22:07:19,979 - INFO - Reel https://www.instagram.com/reel/C-5Y1YJzDh-/ is older than 24 hours, skipping remaining reels for manish_charkul_editz.
+2024-08-27 22:07:41,424 - INFO - Found 12 reel elements on the current page for _abduaziz_o8.
+2024-08-27 22:08:05,648 - INFO - Downloaded: https://www.instagram.com/reel/C_Lew0wiR7Y/
+2024-08-27 22:08:15,580 - INFO - Downloaded: https://www.instagram.com/reel/C_J-hLXo1Ad/
+2024-08-27 22:08:15,580 - INFO - Total number of videos downloaded: 2
+2024-08-27 22:08:15,580 - INFO - Number of reels fetched from each username: {'twentisty': 1, 'manish_charkul_editz': 0, '_abduaziz_o8': 1}
+2024-08-27 22:08:18,303 - INFO - Driver has been cleaned up.
+2024-08-28 18:34:59,616 - INFO - Loaded session from file for nathkoshinum
+2024-08-28 18:35:24,228 - INFO - Found 12 reel elements on the current page for meme.metro.
+2024-08-28 18:35:39,335 - INFO - Found 12 reel elements on the current page for 90_meemz.
+2024-08-28 18:35:41,231 - INFO - Reel https://www.instagram.com/reel/C_K03FItEMQ/ is older than 24 hours. Skipping remaining reels for 90_meemz.
+2024-08-28 18:35:55,112 - INFO - Found 12 reel elements on the current page for humortycoon.
+2024-08-28 18:36:52,023 - INFO - Downloaded: https://www.instagram.com/reel/C_Mte_ZxA6D/
+2024-08-28 18:37:04,089 - INFO - Downloaded: https://www.instagram.com/reel/C_MtJLzxshs/
+2024-08-28 18:37:04,089 - INFO - Total number of videos downloaded: 2
+2024-08-28 18:37:04,089 - INFO - Number of reels fetched from each username: {'meme.metro': 1, '90_meemz': 0, 'humortycoon': 1}
+2024-08-28 18:37:06,674 - INFO - Driver has been cleaned up.

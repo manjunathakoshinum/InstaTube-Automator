@@ -1,0 +1,14 @@
+{
+    "video_file_path": "youtube_channel\\meems\\video_files_path.json",
+    "geckodriver_path": "download_upload\\geckodriver.exe",
+    "made_for_kids": false,
+    "age_restriction": false,
+    "category": "4",
+    "sort_by": "new",
+    "visibility": "public",
+    "command_for_title": "Generate a catchy and humorous title for a meme video that captures the essence of [describe the content of the meme video briefly, e.g., a funny situation, a relatable moment, or a popular trend]. The title should be short, punchy, and instantly grab attention, making it shareable and memorable. title should be with in 100 characters and with in [] onluy title",
+    "command_for_description": "Create a witty and engaging description for a meme video that highlights the funniest moments and makes viewers eager to share. The description should include popular keywords and hashtags related to trending topics or viral content, ensuring it ranks high in search results. Mention any relevant cultural references, social media trends, or popular phrases to make the description relatable and searchableand informative description to achieve top search engine rankings, maximize visibility, and enhance discoverability on YouTube. The keywords must be highly relevant, compelling, and designed to attract a broad audience. Ensure the inclusion of various keyword types, such as long-tail phrases, trending topics, and popular search terms. The entire description should be enclosed within brackets [ ], and should be approximately 5000 characters long, but no less than 4500 characters, to provide a comprehensive and detailed exploration of the subject matter. Only inside the square brackets [], only description, that character should be more than 4700 and not more than 5000.",
+    "command_for_tags": "Generate a highly optimized list of YouTube tags forGenerate a list of the most searchable and trending tags for a meme video. The tags should be based on current popular search strategies, including trending topics, viral phrases, and hashtags. Ensure the tags are relevant to the meme video’s content, appeal to a broad audience, and enhance discoverability across social media platforms and search engines, enclosed in square brackets [ ] and separated by commas. The list should be between 300-400 characters long, focusing on the most popular, relevant, and trending keywords across wildlife, landscapes, environmental conservation, and exploration. Ensure the tags are meticulously selected for maximum searchability, viewer engagement, and designed to dominate YouTube's search rankings and recommendation algorithms. Aim for unparalleled visibility and ranking potential. Limit to 400 characters.",
+    "command_for_hashtags": "write highly relevant and popular hashtags for a meme with in [] seperated by camma "
+    
+}
