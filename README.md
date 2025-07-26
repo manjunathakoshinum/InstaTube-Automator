@@ -230,6 +230,7 @@ If you're a developer, recruiter, or creator who shares this mindset — I’d l
 
 ## 📄 License
 
-Licensed under the [MIT License](LICENSE).
+This project is licensed under the **Apache License 2.0** — see the [LICENSE](LICENSE) file for full details.
 
-````
+> You are free to use, modify, and distribute this code **for personal or educational purposes**, but must include proper attribution and retain the license terms.
+
